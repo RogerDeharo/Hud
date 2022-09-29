@@ -1,0 +1,29 @@
+.container{
+    position: absolute;
+  right: 58%;
+  width: 0px;
+  transform: scale(0.5, 0.5);
+  -ms-transform: scale(0.5, 0.5);
+  -webkit-transform: scale(0.5, 0.5);
+  margin-top: -150px;
+}
+
+
+.armorbar{
+    width: 256px;
+}
+
+.healthbar{
+    padding-bottom: 20px;
+    width: 256px;
+}
+.info{
+    position: absolute;
+    right: 90px;
+    bottom: 60px;
+    padding: 10px;
+}
+.img{
+    position: absolute;
+    left: 15px;
+}
